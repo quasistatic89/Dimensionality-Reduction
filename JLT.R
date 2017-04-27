@@ -1,6 +1,7 @@
 library(spam)
 library(magic)
 library(RSEIS)
+library(timeDate)
 
 #function to create the diagonal matrix for pre-processing
 Diagonal <- function(N){
